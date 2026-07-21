@@ -97,7 +97,7 @@ Cette expérience m'a permis d'approfondir mes connaissances en conception web e
 
 ## Présentation du projet
 
-📄 [Voir la présentation du site marchand NAYAA](Site%20marchand%20Nayaa.pdf)
+📄 [Voir la présentation du site marchand NAYAA](site-marchand-nayaa.pdf)
 
 ## 📌 Contexte
 
