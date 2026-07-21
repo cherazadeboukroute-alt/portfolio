@@ -14,9 +14,9 @@ Mon parcours m'a permis de développer une double approche : une sensibilité au
 
 # 🌐 Projet 1 – Création du site internet Tonfoni
 
-## Aperçu du site
+## Présentation du projet
 
-![Site Tonfoni](nouvelle-vaglio.png)
+📄 [Voir la présentation du site vitrine Tonfoni](site-vitrine-tonfoni.pdf)
 
 ## 📌 Contexte
 
@@ -57,9 +57,9 @@ J'ai donc pris l'initiative de me former de manière autonome afin de comprendre
 
 # 🌐 Projet 2 – Création du site internet Nouvelle Vaglio
 
-## Aperçu du site
+## Présentation du projet
 
-![Site Nouvelle Vaglio](nouvelle-vaglio.png)
+📄 [Voir la présentation du site vitrine Nouvelle Vaglio](site-vitrine-nouvelle-vaglio.pdf)
 
 ## 📌 Contexte
 
