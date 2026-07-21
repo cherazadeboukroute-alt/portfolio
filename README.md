@@ -14,9 +14,9 @@ Mon parcours m'a permis de développer une double approche : une sensibilité au
 
 # 🌐 Projet 1 – Création du site internet Tonfoni
 
-![Capture du site Tonfoni](tonfoni.png)
-
 ## Aperçu du site
+
+![Site Tonfoni](nouvelle-vaglio.png)
 
 ## 📌 Contexte
 
@@ -57,9 +57,9 @@ J'ai donc pris l'initiative de me former de manière autonome afin de comprendre
 
 # 🌐 Projet 2 – Création du site internet Nouvelle Vaglio
 
-![Capture du site Nouvelle Vaglio](nouvelle-vaglio.png)
-
 ## Aperçu du site
+
+![Site Nouvelle Vaglio](nouvelle-vaglio.png)
 
 ## 📌 Contexte
 
@@ -95,9 +95,9 @@ Cette expérience m'a permis d'approfondir mes connaissances en conception web e
 
 # 🛍️ Projet 3 – Création d'un site e-commerce "NAYAA"
 
-![PDF du site NAYAA](Site marchand Nayaa.pdf)
-
 ## Aperçu du site
+
+![Site NAYAA](nayaa.png)
 
 ## 📌 Contexte
 
