@@ -16,6 +16,7 @@ Mon parcours m'a permis de développer une double approche : une sensibilité au
 
 ![Capture du site Tonfoni](tonfoni.png)
 
+## Aperçu du site
 
 ## 📌 Contexte
 
@@ -58,6 +59,8 @@ J'ai donc pris l'initiative de me former de manière autonome afin de comprendre
 
 ![Capture du site Nouvelle Vaglio](nouvelle-vaglio.png)
 
+## Aperçu du site
+
 ## 📌 Contexte
 
 Lors de mon stage au sein de l'entreprise **Nouvelle Vaglio**, j'ai participé à la création d'un site internet répondant aux besoins de l'entreprise.
@@ -93,6 +96,8 @@ Cette expérience m'a permis d'approfondir mes connaissances en conception web e
 # 🛍️ Projet 3 – Création d'un site e-commerce "NAYAA"
 
 ![PDF du site NAYAA](nayaa.pdf)
+
+## Aperçu du site
 
 ## 📌 Contexte
 
