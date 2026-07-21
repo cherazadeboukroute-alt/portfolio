@@ -95,9 +95,9 @@ Cette expérience m'a permis d'approfondir mes connaissances en conception web e
 
 # 🛍️ Projet 3 – Création d'un site e-commerce "NAYAA"
 
-## Aperçu du site
+## Présentation du projet
 
-![Site NAYAA](Site marchand Nayaa.pdf)
+📄 [Voir la présentation du site marchand NAYAA](Site%20marchand%20Nayaa.pdf)
 
 ## 📌 Contexte
 
